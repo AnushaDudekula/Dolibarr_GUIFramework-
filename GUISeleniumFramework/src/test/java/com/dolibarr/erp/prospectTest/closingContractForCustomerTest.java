@@ -18,7 +18,7 @@ import com.dolibarr.erp.objectrepositoryutility.NewThirdPartyPage;
 import com.dolibarr.erp.objectrepositoryutility.Third_PartiesPage;
 import com.dolibarr.erp.objectrepositoryutility.salesOrderPage;
 @Listeners(com.dolibarr.erp.generic.listenerutility.ListImpClass.class)
-public class closingContractForCustomer extends BaseClass {
+public class closingContractForCustomerTest extends BaseClass {
 	@Test
 	public void closeContract() throws Throwable {
 	/**
